@@ -1,13 +1,9 @@
 package com.ultimatestattracker.stattrackers;
 
-import com.ultimatestattracker.StatCategory;
-import com.ultimatestattracker.StatKey;
 import com.ultimatestattracker.StatStore;
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.api.*;
 import net.runelite.api.events.*;
-
-import java.util.Map;
 
 import static com.ultimatestattracker.StatKeys.*;
 
